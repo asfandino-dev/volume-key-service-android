@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Servicio de Volumen</string>
+
+    <string name="service_description">Permite cambiar de canción presionando dos veces los botones de volumen.</string>
+</resources>
